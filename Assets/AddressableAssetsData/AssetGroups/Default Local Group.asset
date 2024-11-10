@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5e4fa7c66cf8fec4695ed3cae9b3d8d6
+  m_SerializeEntries:
+  - m_GUID: 9ab18436157aef04e9222eca4af84039
+    m_Address: button_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55c5624404a9ba44992a49125944a69f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 13d4962fa3b3a054fa2c92bef81b34b4, type: 2}
+    - {fileID: 11400000, guid: 7c87003e8328abd48bc7ed4c5358f18f, type: 2}

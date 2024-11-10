@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: View
+  m_EditorClassIdentifier: 
+  m_GroupName: View
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f5d2ffefc8e9a05439ad927ea3b1c327
+  m_SerializeEntries:
+  - m_GUID: 566381050844d3c458901e9526643eb5
+    m_Address: ItemGetView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77bd72f82a07515439ff625fb1ba7ee3
+    m_Address: ItemDetailsDialog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d12643aa424bb3041a0d33f2d9182a97
+    m_Address: BackpackView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0c3d1b3c687b9d438a87c3b836039fc
+    m_Address: CharacterPropertyView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a55691e45275e54e96c07d6a98fd631
+    m_Address: ChroniclesView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24108f8f5f001994d8ec01b4d21c669f
+    m_Address: MusicView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70a37280ca8ad31428b75a4cc3b1540e
+    m_Address: PaletteView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4294d560e31a52149ba548ca65c07982
+    m_Address: TaskView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55c5624404a9ba44992a49125944a69f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7566933a40f5daf40ad31d68f974b0f0, type: 2}
+    - {fileID: 11400000, guid: db5f087b2af93d744881b60da972c291, type: 2}

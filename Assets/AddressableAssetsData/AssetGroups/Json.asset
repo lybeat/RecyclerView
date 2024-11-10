@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Json
+  m_EditorClassIdentifier: 
+  m_GroupName: Json
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 328af2388f0e7bf48885955d8df2a83d
+  m_SerializeEntries:
+  - m_GUID: 357f28f45d703194ebf595a7282d62f5
+    m_Address: Foods
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49e39839c1fb77846b32d9351df60474
+    m_Address: Materials
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9440b256693a6204abbfd394d8404adc
+    m_Address: Props
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d916ddb0009a314883f8e0fe9c465c6
+    m_Address: Relics
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e145bf9f3312354faf0f2ba924ce136
+    m_Address: Weapons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Json
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 55c5624404a9ba44992a49125944a69f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d0ee1e8ea1aa114db100407a95ca1d1, type: 2}
+    - {fileID: 11400000, guid: 1ce7b8131b2a45440bc82ca505072b79, type: 2}

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "异种的期许",
+        "icon": "Item_Reckoning_of_the_Xenogenic",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "生之花",
+        "content": "用黑色晶石精心雕琢而成的花朵，在夜间似乎会散发出神秘的幽光。"
+    },
+    {
+        "name": "灵髓的根脉",
+        "icon": "Item_Root_of_the_Spirit-Marrow",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "死之羽",
+        "content": "模仿古龙之翼打造的羽饰，或许曾是某段已被遗忘的历史的见证。"
+    },
+    {
+        "name": "夜域的迷思",
+        "icon": "Item_Myths_of_the_Night_Realm",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "时之沙",
+        "content": "既非时计亦非罗盘的神秘仪表，如今世上已无人知晓其用途。"
+    },
+    {
+        "name": "纷争的前宴",
+        "icon": "Item_Pre-Banquet_of_the_Contenders",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "空之杯",
+        "content": "似乎是将石块随意扭曲敲打做成的容器，不知何人拥有这样的臂力。"
+    },
+    {
+        "name": "诸圣的礼冠",
+        "icon": "Item_Crown_of_the_Saints",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "理之冠",
+        "content": "用黑曜石制作的宝冠，在古时曾用于部族中高贵王酋的加冕仪式。"
+    },
+    {
+        "name": "驯兽师的护符",
+        "icon": "Item_Beast_Tamer_Talisman",
+        "rarity": 5,
+        "suit": "黑曜秘典",
+        "type": "生之花",
+        "content": "用燧石与龙晶镌刻而成的花，意味着佩戴者已获得成为驯兽师的资格。"
+    },
+    {
+        "name": "巡山客的信标",
+        "icon": "Item_Mountain_Ranger's_Marker",
+        "rarity": 5,
+        "suit": "烬城勇者绘卷",
+        "type": "死之羽",
+        "content": "巡山客用来标记道路的信标，像是鸟羽的形状竖立在路边相当显眼。"
+    },
+    {
+        "name": "秘术家的金盘",
+        "icon": "Item_Mystic's_Gold_Dial",
+        "rarity": 5,
+        "suit": "烬城勇者绘卷",
+        "type": "时之沙",
+        "content": "太阳形状的金盘，上面装饰的龙纹似乎象征着生与死的循环。"
+    },
+    {
+        "name": "游学者的爪杯",
+        "icon": "Item_Wandering_Scholar's_Claw_Cup",
+        "rarity": 5,
+        "suit": "烬城勇者绘卷",
+        "type": "空之杯",
+        "content": "造型酷似龙爪的奇异酒杯，制作者想必有其特殊的考虑吧。"
+    },
+    {
+        "name": "魔战士的羽面",
+        "icon": "Item_Demon-Warrior's_Feather_Mask",
+        "rarity": 5,
+        "suit": "烬城勇者绘卷",
+        "type": "理之冠",
+        "content": "如同鹰隼一般的羽面，围绕着它曾有过许许多多的传说。"
+    },
+    {
+        "name": "谐律交响的前奏",
+        "icon": "Item_Dark_Fruit_of_Bright_Flowers",
+        "rarity": 5,
+        "suit": "谐律异想断章",
+        "type": "生之花",
+        "content": "以黄金与青石点缀的怒放之花，曾是赐予不朽之人的荣章。"
+    },
+    {
+        "name": "古海玄幽的夜想",
+        "icon": "Item_Faded_Emerald_Tail",
+        "rarity": 5,
+        "suit": "谐律异想断章",
+        "type": "死之羽",
+        "content": "模仿传说中的金蜂翅翼雕琢而成的羽饰，似乎会随着微风震颤。"
+    },
+    {
+        "name": "命途轮转的谐谑",
+        "icon": "Item_Moment_of_Attainment",
+        "rarity": 5,
+        "suit": "谐律异想断章",
+        "type": "时之沙",
+        "content": "仿照命运之轮的样子打造的时计，如今早已无法转动。"
+    },
+    {
+        "name": "灵露倾洒的狂诗",
+        "icon": "Item_The_Wine-Flask_Over_Which_the_Plan_Was_Hatched",
+        "rarity": 5,
+        "suit": "谐律异想断章",
+        "type": "空之杯",
+        "content": "使用铜胎为底烧制的来通杯，过去曾灌满乐园的美酒。"
+    },
+    {
+        "name": "异想零落的圆舞",
+        "icon": "Item_Crownless_Crown",
+        "rarity": 5,
+        "suit": "谐律异想断章",
+        "type": "理之冠",
+        "content": "曾经覆以金箔的面具，或许是古时统帅军团之人的遗物"
+    },
+    {
+        "name": "暗结的明花",
+        "icon": "Item_Harmonious_Symphony_Prelude",
+        "rarity": 5,
+        "suit": "未竟的遐思",
+        "type": "生之花",
+        "content": "由灰石雕刻并巧贴金箔的花，传说在一场战争中，曾作为敌我双方区别的凭证。"
+    },
+    {
+        "name": "褪光的翠尾",
+        "icon": "Item_Ancient_Sea_Nocturnal_Musing",
+        "rarity": 5,
+        "suit": "未竟的遐思",
+        "type": "死之羽",
+        "content": "已褪去华光的尾翎装饰，其上的纹路据说出自久远之前的巧匠之手。"
+    },
+    {
+        "name": "举业的识刻",
+        "icon": "Item_The_Grand_Jape_of_the_Turning_of_Fate",
+        "rarity": 5,
+        "suit": "未竟的遐思",
+        "type": "时之沙",
+        "content": "古老国度计时的历晷，在某一刻度上，留有仔细观察才可看到的细小印记。"
+    },
+    {
+        "name": "筹谋的共樽",
+        "icon": "Item_Ichor_Shower_Rhapsody",
+        "rarity": 5,
+        "suit": "未竟的遐思",
+        "type": "空之杯",
+        "content": "陶制的三足杯，曾有诸多英雄在篝火边举杯酣饮，谈论各自的野心与期冀。"
+    },
+    {
+        "name": "失冕的宝冠",
+        "icon": "Item_Whimsical_Dance_of_the_Withered",
+        "rarity": 5,
+        "suit": "未竟的遐思",
+        "type": "理之冠",
+        "content": "由松石与翠羽装饰的黄金宝冠，但空居绒垫之上，从未出现在冕礼之中。"
+    },
+    {
+        "name": "昔时遗落之誓",
+        "icon": "Item_Forgotten_Oath_of_Days_Past",
+        "rarity": 5,
+        "suit": "昔时之歌",
+        "type": "生之花",
+        "content": "由海纹石与苍银打造而成的不凋花朵，据说至今依然被视为反抗者的象征。"
+    },
+    {
+        "name": "昔时浮想之思",
+        "icon": "Item_Recollection_of_Days_Past",
+        "rarity": 5,
+        "suit": "昔时之歌",
+        "type": "死之羽",
+        "content": "白银与苍水晶制成的蝶状羽饰，据说在遥远的过去象征着永不分离的誓言。"
+    },
+    {
+        "name": "昔时回映之音",
+        "icon": "Item_Echoing_Sound_From_Days_Past",
+        "rarity": 5,
+        "suit": "昔时之歌",
+        "type": "时之沙",
+        "content": "造型奇异的沙漏，由青金石与水玉打造，据说设计灵感来自佩特莉可镇的钟塔。"
+    },
+    {
+        "name": "昔时应许之梦",
+        "icon": "Item_Promised_Dream_of_Days_Past",
+        "rarity": 5,
+        "suit": "昔时之歌",
+        "type": "空之杯",
+        "content": "仿照传说中「纯水之杯」的形制打造而成的华美器皿，据说能够实现最为纯净之人的心愿。"
+    },
+    {
+        "name": "昔时传奏之诗",
+        "icon": "Item_Poetry_of_Days_Past",
+        "rarity": 5,
+        "suit": "昔时之歌",
+        "type": "理之冠",
+        "content": "曾一度在枫丹的歌剧创作者之间流行的礼帽，据说羽饰的设计参考了传说中纯水骑士的盔缨。"
+    },
+    {
+        "name": "无私的妆饰花",
+        "icon": "Item_Selfless_Floral_Accessory",
+        "rarity": 5,
+        "suit": "回声之林夜话",
+        "type": "生之花",
+        "content": "故事中的女巫所佩戴的胸花，与她所喜爱的其他装饰一样，用蝴蝶的造型作为点缀。"
+    },
+    {
+        "name": "诚恳的蘸水笔",
+        "icon": "Item_Honest_Quill",
+        "rarity": 5,
+        "suit": "回声之林夜话",
+        "type": "死之羽",
+        "content": "故事中的女巫所使用的蘸水笔，流畅顺滑在它所有的优点中最不值得一提。"
+    },
+    {
+        "name": "忠实的砂时计",
+        "icon": "Item_Faithful_Hourglass",
+        "rarity": 5,
+        "suit": "回声之林夜话",
+        "type": "时之沙",
+        "content": "故事中的女巫所仰仗的砂时计，据说对它念出错误的咒语，时间的流逝就会格外迅速。"
+    },
+    {
+        "name": "慷慨的墨水瓶",
+        "icon": "Item_Magnanimous_Ink_Bottle",
+        "rarity": 5,
+        "suit": "回声之林夜话",
+        "type": "空之杯",
+        "content": "故事中的女巫所借助的墨水瓶，有着不逊于蘸水笔的神奇魔法。"
+    },
+    {
+        "name": "慈爱的淑女帽",
+        "icon": "Item_Compassionate_Ladies_Hat",
+        "rarity": 5,
+        "suit": "回声之林夜话",
+        "type": "理之冠",
+        "content": "故事中的女巫所爱用的淑女帽，沉稳又不失俏皮的设计令她格外中意。"
+    },
+    {
+        "name": "黄金乐曲的变奏",
+        "icon": "Item_Golden_Song_Variation",
+        "rarity": 5,
+        "suit": "黄金剧团",
+        "type": "生之花",
+        "content": "由砗磲、贝母、和金箔精心制成的花朵，正骄傲地盛放着。"
+    },
+    {
+        "name": "黄金飞鸟的落羽",
+        "icon": "Item_Golden_Bird_Shedding",
+        "rarity": 5,
+        "suit": "黄金剧团",
+        "type": "死之羽",
+        "content": "黄金与白银掐丝打造的鸟羽，其上一颗蓝宝石晶莹剔透。"
+    },
+    {
+        "name": "黄金时代的先声",
+        "icon": "Item_Golden_Era_Prelude",
+        "rarity": 5,
+        "suit": "黄金剧团",
+        "type": "时之沙",
+        "content": "黄金与白银镶嵌而成的美妙日晷，似乎晷盘之上时间早已停止了流动。"
+    },
+    {
+        "name": "黄金之夜的喧嚣",
+        "icon": "Item_Golden_Night_Bustle",
+        "rarity": 5,
+        "suit": "黄金剧团",
+        "type": "空之杯",
+        "content": "形制古老的银瓮，曾经满盛着红宝石般的美酒，如今其中的却是苦涩的海水。"
+    },
+    {
+        "name": "黄金剧团的奖赏",
+        "icon": "Item_Golden_Troupe_Reward",
+        "rarity": 5,
+        "suit": "黄金剧团",
+        "type": "理之冠",
+        "content": "形制古老的王冠，相比起君主的头饰，不如说更像是舞台道具。"
+    },
+    {
+        "name": "猎人的胸花",
+        "icon": "Item_Hunter_Brooch",
+        "rarity": 5,
+        "suit": "逐影猎人",
+        "type": "生之花",
+        "content": "老旧的勋章，在过去曾被用来配发给在战斗中做出了杰出贡献的人。"
+    },
+    {
+        "name": "杰作的序曲",
+        "icon": "Item_Masterpiece_Overture",
+        "rarity": 5,
+        "suit": "逐影猎人",
+        "type": "死之羽",
+        "content": "用于调整旧式机关发条力矩的便携工具。如今失去了实用价值。"
+    },
+    {
+        "name": "裁判的时刻",
+        "icon": "Item_Moment_of_Judgment",
+        "rarity": 5,
+        "suit": "逐影猎人",
+        "type": "时之沙",
+        "content": "制式的怀表，走时精准度并不算高。"
+    },
+    {
+        "name": "遗忘的容器",
+        "icon": "Item_Forgotten_Vessel",
+        "rarity": 5,
+        "suit": "逐影猎人",
+        "type": "空之杯",
+        "content": "容纳烈酒的便携金属容器，适合放在大衣口袋中随时使用。"
+    },
+    {
+        "name": "老兵的容颜",
+        "icon": "Item_Veteran_Visage",
+        "rarity": 5,
+        "suit": "逐影猎人",
+        "type": "理之冠",
+        "content": "老旧的面具，能够一定程度上替代因伤害而损毁的面容。依据伤残的面积、使用者的性别，有不同的设计。"
+    },
+    {
+        "name": "灵光源起之蕊",
+        "icon": "Item_Stamen_of_Khvarena_Origin",
+        "rarity": 5,
+        "suit": "花海甘露之光",
+        "type": "生之花",
+        "content": "久远的朝圣者曾佩戴的徽记，是一朵华丽的小花。"
+    },
+    {
+        "name": "琦色灵彩之羽",
+        "icon": "Item_Vibrant_Pinion",
+        "rarity": 5,
+        "suit": "花海甘露之光",
+        "type": "死之羽",
+        "content": "精巧的羽状饰品，闪烁着绿叶与芳花的光泽。"
+    },
+    {
+        "name": "久远花落之时",
+        "icon": "Item_Ancient_Abscission",
+        "rarity": 5,
+        "suit": "花海甘露之光",
+        "type": "时之沙",
+        "content": "闪烁着灵光的古老时计，其中盛装着似有生命的纯净液体。"
+    },
+    {
+        "name": "无边酣乐之筵",
+        "icon": "Item_Feast_of_Boundless_Joy",
+        "rarity": 5,
+        "suit": "花海甘露之光",
+        "type": "空之杯",
+        "content": "曾盛装琼浆蜜露的华丽酒杯，如今已空空如也。"
+    },
+    {
+        "name": "灵光明烁之心",
+        "icon": "Item_Heart_of_Khvarena_Brilliance",
+        "rarity": 5,
+        "suit": "花海甘露之光",
+        "type": "理之冠",
+        "content": "精致多彩的耳饰，其上仿佛流露着百种花儿的光泽。"
+    },
+    {
+        "name": "旅途中的鲜花",
+        "icon": "Item_Odyssean_Flower",
+        "rarity": 5,
+        "suit": "水仙之梦",
+        "type": "生之花",
+        "content": "故事一定会结束，鲜花也终究会凋落。但梦中描绘的花朵永远都会饱满而充满芬芳吧。"
+    },
+    {
+        "name": "坏巫师的羽杖",
+        "icon": "Item_Wicked_Mage_Plumule",
+        "rarity": 5,
+        "suit": "水仙之梦",
+        "type": "死之羽",
+        "content": "原本在礼帽上的装饰鸟羽。墨绿的颜色想必相当吸引眼球吧。"
+    },
+    {
+        "name": "水仙的时时刻刻",
+        "icon": "Item_Nymph_Constancy",
+        "rarity": 5,
+        "suit": "水仙之梦",
+        "type": "时之沙",
+        "content": "早已停止运转的怀表，似乎在徒劳的旋转中见证过许多的年月。"
+    },
+    {
+        "name": "勇者们的茶会",
+        "icon": "Item_Heroes_Tea_Party",
+        "rarity": 5,
+        "suit": "水仙之梦",
+        "type": "空之杯",
+        "content": "精致的茶杯。或许曾与他人共同度过悠闲的午后时光吧。"
+    },
+    {
+        "name": "恶龙的单片镜",
+        "icon": "Item_Fell_Dragon_Monocle",
+        "rarity": 5,
+        "suit": "水仙之梦",
+        "type": "理之冠",
+        "content": "精致的单片眼镜。依照古老的轶事传闻，透过它或许能瞥见未来的光景吧。"
+    }
+]
