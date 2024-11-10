@@ -1,17 +1,17 @@
 ## RecyclerView，UGUI列表解决方案
 ### 使用教程
 1. 在画布中右键 NaiQiu UI -> RecyclerView（也可以自己创建同样结构的 UI，类似于 UGUI 的 ScrollView），RecyclerView 暴露了很多常用的字段，可以在编辑器中调整；
-![alt 属性文本](Screenshot/Snipaste_2024-11-10_14-49-47.png)
+![alt text](Screenshot/Snipaste_2024-11-10_14-49-47.png)
 
 2. 创建业务相关的 ViewHolder 视图，并编写对应的 ViewHolder 类，类需要继承 ViewHolder； 将 ViewHolder 视图作为预制件拖入到 RecyclerView 的 Templates 字段中；
-![alt 属性文本](Screenshot/Snipaste_2024-11-10_15-33-23.png)
-![alt 属性文本](Screenshot/Snipaste_2024-11-10_15-36-18.png)
+![alt text](Screenshot/Snipaste_2024-11-10_15-33-23.png)
+![alt text](Screenshot/Snipaste_2024-11-10_15-36-18.png)
 
 3. 在代码中查找到 RecyclerView，初始化 Adapter，为 ReclcyerView 设置 LayoutManger；
-![alt 属性文本](Screenshot/Snipaste_2024-11-10_15-34-41.png)
+![alt text](Screenshot/Snipaste_2024-11-10_15-34-41.png)
 
 4. 为Adapter设置数据，列表就会显示出来了。
-![alt 属性文本](Screenshot/Snipaste_2024-11-10_15-34-48.png)
+![alt text](Screenshot/Snipaste_2024-11-10_15-34-48.png)
 
 ### 更多用法
 1. 滚动到某一个 Item
@@ -68,6 +68,9 @@
 6. 理论上来说，这套框架可以支持任意形式的布局情况，如果你有任何新奇的想法，就来尝试吧。
 
 ### 框架结构
+
+![alt text](RecyclerView.png)
+
 ### RecyclerView
 框架核心类，负责整个框架的初始化，并暴露业务操作接口给开发者。
 ### Adapter
