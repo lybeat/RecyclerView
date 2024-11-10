@@ -1,4 +1,4 @@
-## RecyclerView，UGUI列表解决方案
+## RecyclerView，UGUI列表解决方案。一个高性能、高复用、高扩展的列表框架。
 ### 使用教程
 1. 在画布中右键 NaiQiu UI -> RecyclerView（也可以自己创建同样结构的 UI，类似于 UGUI 的 ScrollView），RecyclerView 暴露了很多常用的字段，可以在编辑器中调整；
 ![alt text](Screenshot/Snipaste_2024-11-10_14-49-47.png)

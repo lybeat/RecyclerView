@@ -16,7 +16,7 @@ namespace NaiQiu.Framework.Resource
         private Action onResourceLoaded;
 
         private int resCounter = 0;
-        private readonly int maxCount = 4;
+        private readonly int maxCount = 3;
 
         public ResourceManager(Action onResourceLoaded)
         {
