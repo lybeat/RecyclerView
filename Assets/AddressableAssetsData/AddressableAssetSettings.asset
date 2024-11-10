@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 5e4fa7c66cf8fec4695ed3cae9b3d8d6
   m_currentHash:
     serializedVersion: 2
-    Hash: bb628c8042ab5e58f402d9599929df4b
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -91,7 +91,6 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - Atlas
-    - Audio
     - View
     - Json
   m_SchemaTemplates: []

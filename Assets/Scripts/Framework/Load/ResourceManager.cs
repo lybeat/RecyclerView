@@ -23,7 +23,6 @@ namespace NaiQiu.Framework.Resource
             this.onResourceLoaded = onResourceLoaded;
 
             LoadSprites();
-            LoadAudios();
             LoadViews();
             LoadJsons();
         }
@@ -42,17 +41,6 @@ namespace NaiQiu.Framework.Resource
             Addressables.LoadAssetsAsync<SpriteAtlas>(new List<string> { "Atlas" }, t =>
                                                 {
                                                     SpriteAtlas[t.name] = t;
-                                                }, Addressables.MergeMode.Union).Completed += handle =>
-                                                {
-                                                    HandleLoadCompleted();
-                                                };
-        }
-
-        private void LoadAudios()
-        {
-            Addressables.LoadAssetsAsync<AudioClip>(new List<string> { "Audio" }, t =>
-                                                {
-                                                    AudioClips[t.name] = t;
                                                 }, Addressables.MergeMode.Union).Completed += handle =>
                                                 {
                                                     HandleLoadCompleted();
