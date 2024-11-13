@@ -15,11 +15,6 @@ public class GameManager : SingletonComponent<GameManager>
         resourceManager = new(OnResourceLoaded);
     }
     
-    private void OnDataLoaded()
-    {
-        ToStart();
-    }
-
     private void OnResourceLoaded()
     {
         Debug.Log("OnResourceLoadCompleted");
@@ -27,10 +22,13 @@ public class GameManager : SingletonComponent<GameManager>
         SpriteManager = new(resourceManager.SpriteAtlas);
         UIManager = new(resourceManager.Views);
         DataManager = new(resourceManager.Jsons);
+
+        ToStart();
     }
 
     private void ToStart()
     {
+        UIManager.Open("FunView");
     }
 
     public void ClearResource()

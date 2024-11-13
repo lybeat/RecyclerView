@@ -7,8 +7,10 @@ public class FunView : View
 
     private Adapter<FunData> adapter;
 
-    private void Awake()
+    public override void OnCreate(UIManager uiManager)
     {
+        base.OnCreate(uiManager);
+
         recyclerView = transform.Find("RecyclerView").GetComponent<RecyclerView>();
 
         adapter = new Adapter<FunData>(recyclerView);
@@ -38,7 +40,7 @@ public class FunView : View
             }
         });
 
-        Invoke("FillData", 0.2f);
+        FillData();
     }
 
     private void FillData()

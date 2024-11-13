@@ -65,6 +65,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - View
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fbec282ab827de4cbdad8992dbd2ea1
+    m_Address: FunView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - View
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 55c5624404a9ba44992a49125944a69f, type: 2}
   m_SchemaSet:
